@@ -1,4 +1,4 @@
-package com.hotelreviewsystem.employeemanagementsystem.exceptions;
+package com.employeemanagementsystem.exceptions;
 
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;

@@ -1,15 +1,13 @@
-package com.hotelreviewsystem.employeemanagementsystem.controllers;
+package com.employeemanagementsystem.controllers;
 
-import com.hotelreviewsystem.employeemanagementsystem.exceptions.EmployeeNotFoundException;
-import com.hotelreviewsystem.employeemanagementsystem.models.Employee;
-import com.hotelreviewsystem.employeemanagementsystem.services.EmployeeService;
+import com.employeemanagementsystem.exceptions.EmployeeNotFoundException;
+import com.employeemanagementsystem.models.Employee;
+import com.employeemanagementsystem.services.EmployeeService;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 @ExtendWith(MockitoExtension.class)
 public class EmployeeControllerTest {

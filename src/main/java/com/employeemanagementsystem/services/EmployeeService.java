@@ -1,8 +1,7 @@
-package com.hotelreviewsystem.employeemanagementsystem.services;
+package com.employeemanagementsystem.services;
 
-import com.hotelreviewsystem.employeemanagementsystem.controllers.EmployeeController;
-import com.hotelreviewsystem.employeemanagementsystem.exceptions.EmployeeNotFoundException;
-import com.hotelreviewsystem.employeemanagementsystem.models.Employee;
+import com.employeemanagementsystem.exceptions.EmployeeNotFoundException;
+import com.employeemanagementsystem.models.Employee;
 import org.springframework.data.domain.Page;
 
 public interface EmployeeService {

@@ -1,7 +1,7 @@
-package com.hotelreviewsystem.employeemanagementsystem.controllers;
-import com.hotelreviewsystem.employeemanagementsystem.exceptions.EmployeeNotFoundException;
-import com.hotelreviewsystem.employeemanagementsystem.models.Employee;
-import com.hotelreviewsystem.employeemanagementsystem.services.EmployeeService;
+package com.employeemanagementsystem.controllers;
+import com.employeemanagementsystem.exceptions.EmployeeNotFoundException;
+import com.employeemanagementsystem.models.Employee;
+import com.employeemanagementsystem.services.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.http.HttpStatus;

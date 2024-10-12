@@ -1,4 +1,4 @@
-package com.hotelreviewsystem.employeemanagementsystem.exceptions;
+package com.employeemanagementsystem.exceptions;
 
 
 public class EmployeeNotFoundException extends Exception {

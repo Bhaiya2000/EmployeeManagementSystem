@@ -1,4 +1,4 @@
-package com.hotelreviewsystem.employeemanagementsystem.models;
+package com.employeemanagementsystem.models;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

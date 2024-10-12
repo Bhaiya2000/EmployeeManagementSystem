@@ -1,4 +1,4 @@
-package com.hotelreviewsystem.employeemanagementsystem;
+package com.employeemanagementsystem;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,8 +1,8 @@
-package com.hotelreviewsystem.employeemanagementsystem.services.impl;
+package com.employeemanagementsystem.services.impl;
 
-import com.hotelreviewsystem.employeemanagementsystem.exceptions.EmployeeNotFoundException;
-import com.hotelreviewsystem.employeemanagementsystem.models.Employee;
-import com.hotelreviewsystem.employeemanagementsystem.repositories.EmployeeRepository;
+import com.employeemanagementsystem.exceptions.EmployeeNotFoundException;
+import com.employeemanagementsystem.models.Employee;
+import com.employeemanagementsystem.repositories.EmployeeRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

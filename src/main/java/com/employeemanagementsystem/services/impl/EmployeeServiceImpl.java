@@ -1,8 +1,8 @@
-package com.hotelreviewsystem.employeemanagementsystem.services.impl;
-import com.hotelreviewsystem.employeemanagementsystem.exceptions.EmployeeNotFoundException;
-import com.hotelreviewsystem.employeemanagementsystem.models.Employee;
-import com.hotelreviewsystem.employeemanagementsystem.repositories.EmployeeRepository;
-import com.hotelreviewsystem.employeemanagementsystem.services.EmployeeService;
+package com.employeemanagementsystem.services.impl;
+import com.employeemanagementsystem.exceptions.EmployeeNotFoundException;
+import com.employeemanagementsystem.models.Employee;
+import com.employeemanagementsystem.repositories.EmployeeRepository;
+import com.employeemanagementsystem.services.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

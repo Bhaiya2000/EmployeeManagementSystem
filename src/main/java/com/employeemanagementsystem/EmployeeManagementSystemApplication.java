@@ -1,4 +1,4 @@
-package com.hotelreviewsystem.employeemanagementsystem;
+package com.employeemanagementsystem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

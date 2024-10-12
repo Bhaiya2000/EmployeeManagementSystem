@@ -1,6 +1,6 @@
-package com.hotelreviewsystem.employeemanagementsystem.repositories;
+package com.employeemanagementsystem.repositories;
 
-import com.hotelreviewsystem.employeemanagementsystem.models.Employee;
+import com.employeemanagementsystem.models.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EmployeeRepository  extends JpaRepository<Employee, Long> {
